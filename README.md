@@ -1,1 +1,1 @@
-# images
+Repositoy for images used in Markdown files.
